@@ -1,6 +1,6 @@
 #
 # Host based blocklist containing malicious domains to block.
-# Licence GPL v 3.0
+# License: unlicense <https://unlicense.org/>
 #
 api.availablemac.com #cuckoo
 api.buffermanager.com #cuckoo
