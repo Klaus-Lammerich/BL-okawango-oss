@@ -1,0 +1,15 @@
+#
+# Host based blocklist containing malicious domains to block.
+# Licence GPL v 3.0
+#
+api.availablemac.com #cuckoo
+api.buffermanager.com #cuckoo
+api.deployquest.com. #cuckoo
+api.generalmodules.com #cuckoo
+api.inetprogress.com #cuckoo
+api.launchelemnt.com #cuckoo
+api.lookwebresults.com #cuckoo
+api.navigationbuffer.com #cuckoo
+api.operativeeng.com #cuckoo
+api.searchwebmesh.com #cuckoo
+api.validexplorer.com #cuckoo
