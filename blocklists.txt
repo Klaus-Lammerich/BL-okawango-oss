@@ -1,7 +1,7 @@
 #
 # Empfohlene Blocklisten
 #
-https://hole.cert.pl/domains/domains.txt
+https://hole.cert.pl/domains/domains.txt # ergänzt am 13.05.2024
 http://sysctl.org/cameleon/hosts
 https://adaway.org/hosts.txt
 https://big.oisd.nl/
