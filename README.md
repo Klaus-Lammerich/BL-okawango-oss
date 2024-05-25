@@ -21,11 +21,10 @@ Pi-hole GUI -> Settings/System
 Pi-hole GUI -> Settings/DNS
 ##### Rate-limiting auf 100.000 pro 10 sec temporär hochsetzen, um ungewollte Pausen zu vermeiden
 
-##### $ sudo su
-
 
 ## Download cloudflare top 10.000 weltweite domains
 [https://radar.cloudflare.com](https://radar.cloudflare.com/domains)
+##### $ sudo su
 ##### $ nano top_10000_domains.txt
 ##### $ copy paste der 10.000 domains vom Download in die geöffnete Datei
 ##### $ ctrl + o und ctrl + x zum Speichern und Schließen
