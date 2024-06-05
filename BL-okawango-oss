@@ -2,6 +2,39 @@
 # Host based blocklist containing malicious domains to block.
 # License: unlicense <https://unlicense.org/>
 #
+kundenaktualisierungen.cc # Phishing-Kit V3B
+icscards-nl.com
+ics-cards.org
+verifieer-gegevens.com
+gemiste-aanmaning.com/belasting
+redirect-bunq-client.ru/account/321/
+kontoaktualisierer-nl.com/icscard.nl-v1
+accounxt.bitvaqvio.nl-csdki.com
+lnloggen-app.online/
+app-lnloggen.online/authenticatie/inloggen/nl
+abnamro.nl-appverifi.com/3/jjfosp/o34432fpo/index4.php
+nl-appverifi.com
+valideren-mijn-ics-web1.online/sq0.php?session=664483b236193
+ics-beveiligde-verificatie.com/sqi.php
+verifieer-nu.com/verificatie/66422f472f10c
+nl-bunq-bijwerkerking.com
+bvstigveriapp.online/pay/664130fb17583
+reaktivieren-icsservice.nl/icscard.nl-v1/ics-log.php
+belastingdienst-schuld.nl
+bltvavo-bevestig.nt8zd3.ru
+belastingoverzicht.info
+bunq-app-nl.net
+bunq-app-nl.net/K8IjL9/1M3k/lgn
+black-loans7.shop
+mijni-cs.bezoeknummer0734859938.info
+https://mijni-cs.bezoeknummer0734859938.info/sca/7a970cab144c3e89685550829fe62941/login
+bezoeknummer48912543221.info
+icscardsvoorschriften.nl
+abn-amro-gobal.com
+reaktivieren-icsservice.nl/icscard.nl-v1/
+lcs-valideren.online/ics/sca-app/663e0152c96c0
+reaktivieren-icscard.nl
+# Ende Phishing-Kit V3B
 api.availablemac.com #cuckoo
 api.buffermanager.com #cuckoo
 api.deployquest.com. #cuckoo
