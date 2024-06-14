@@ -2,6 +2,7 @@
 # Host based blocklist containing malicious domains to block.
 # License: unlicense <https://unlicense.org/>
 #
+zclouddrive.com # gravityRAT/HeavyLift
 kundenaktualisierungen.cc # Phishing-Kit V3B
 icscards-nl.com
 ics-cards.org
