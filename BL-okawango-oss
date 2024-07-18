@@ -2,6 +2,7 @@
 # Host based blocklist containing malicious domains to block.
 # License: unlicense <https://unlicense.org/>
 #
+#
 micrsoft-teams-download.com # Oyster, aka Broomstick
 impresoralaser.pro # Oyster, aka Broomstick
 149.248.79.62 # Oyster, aka Broomstick
